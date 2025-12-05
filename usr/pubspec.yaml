@@ -14,8 +14,6 @@ dependencies:
   intl: ^0.19.0
   # Para tomar fotos
   image_picker: ^1.0.7
-  # Para iconos bonitos
-  lucide_icons: ^0.3.0
   # Para compartir/exportar archivos (futuro excel)
   share_plus: ^9.0.0
   path_provider: ^2.1.2
